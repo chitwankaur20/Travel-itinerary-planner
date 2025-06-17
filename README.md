@@ -24,13 +24,3 @@ This is a Flask web application that generates a travel itinerary between a sour
 
 ---
 
-## 📁 Project Structure
-
-travel-itinerary/
-├── app.py
-├── gemini.py
-├── templates/
-│ ├── index.html
-│ └── result.html
-├── static/ # optional, for styling
-├── README.md
